@@ -11,3 +11,13 @@ Supported Browsers: IE10+、Chrome、Firefox、Safari.
 * Install with npm: $ npm install simditor</li>
 
 Demo and docs can be found [here](http://simditor.tower.im/).
+
+
+---
+
+# Build
+
+gem install bundler
+bundle install
+npm install 
+grunt package 
